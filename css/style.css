@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(70, 158, 154);
+}
+
+figcaption{
+    font-size: medium;
+    text-align: center;
+    color: rgb(4, 68, 65);
+}
+
+img{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, h2{
+    text-align: center;
+    color: rgb(27, 105, 101);
+}
